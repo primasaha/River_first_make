@@ -1,0 +1,8 @@
+river==0.25.0
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2
+pandas>=2
+numpy>=1.26
+openpyxl>=3.1
+requests>=2.31

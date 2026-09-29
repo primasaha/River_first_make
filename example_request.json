@@ -1,0 +1,11 @@
+{
+  "EVENT_ID": "DEMO-RIVER-001",
+  "USER_ID": "zubair",
+  "EVENT_TIME": "2026-08-12T02:02:18",
+  "AMOUNT_LCY": 100,
+  "RECEIVER_ID": null,
+  "RECEIVER_NM": "receiver demo",
+  "TO_ACCOUNT_NO": "01234567890",
+  "PURPOSE": "payment",
+  "TRANSFER_TYPE": "bkash"
+}
